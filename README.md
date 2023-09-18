@@ -48,3 +48,4 @@ This web application of emotion detection involves capturing video of a person's
 # Conclusion:
 
 In conclusion, this repository provides a solution for real-time facial emotion detection using MobileNet pretrained model and webcam feed. The model achieved an accuracy of 76.61% and the script can be easily run on any machine with the required dependencies. This project can be further improved by exploring different pre-trained models or custom model architectures, increasing the size of the dataset or using a larger batch size for training. Overall, this project showcases the power and versatility of deep learning in computer vision applications and can be used as a starting point for further research and development.
+# Facial_Expression_Detection
