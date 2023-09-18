@@ -1,4 +1,16 @@
 Credit: https://github.com/Snigdho8869/Real-Time-Facial-Emotion-Detection-using-MobileNet-and-Webcam-Input @Snigdho8869
+Testing Results:
+![surprise](https://github.com/dannnnny12/Facial_Expression_Detection/assets/49478754/95aee47a-0bb0-4fa3-a35b-6a934eaf3cb0)
+![neutral](https://github.com/dannnnny12/Facial_Expression_Detection/assets/49478754/35b8390d-2980-479b-b168-4bb7202fa08c)
+![multiple_expression](https://github.com/dannnnny12/Facial_Expression_Detection/assets/49478754/18a6afb3-6a91-4e8c-8a5c-3ab85893b667)
+![happy](https://github.com/dannnnny12/Facial_Expression_Detection/assets/49478754/40f6c4a7-88ee-4ee5-8f08-e910b95eca29)
+![angry](https://github.com/dannnnny12/Facial_Expression_Detection/assets/49478754/c5f3c8c6-261c-4c00-be36-5229ec4cf4b5)
+
+
+
+
+
+
 # Facial Emotion Detection using Transfer Learning and Webcam
 
 
